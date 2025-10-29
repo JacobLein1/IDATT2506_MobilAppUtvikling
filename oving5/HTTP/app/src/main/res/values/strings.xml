@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HTTP</string>
+    <string name="message">Bruk menyen til å teste HTTP</string>
+</resources>
